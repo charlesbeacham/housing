@@ -2,3 +2,4 @@ envs/*
 *.csv
 data_description.txt
 .ipynb_checkpoints/*
+supervised.ipynb
